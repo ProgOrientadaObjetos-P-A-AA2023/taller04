@@ -3,8 +3,8 @@
 
 
 * Dada las siguiente problemáticas:
-	* Dia-UML: Crear un diagrama UML de las clases involucradas (generar el archivo .dia y .jpg
-	* Netbeans: Generar un clase que represente la solución a la problemática y crear un clase llamada Ejecutor que permita iniciar 2 objetos de la clase. La información **NO** será ingresada por teclado.
+	* Dia-UML: Crear un diagrama UML de las clases involucradas (generar el archivo .dia y .jpg)
+	* Netbeans: Generar un clase que represente la solución a la problemática y crear un clase llamada Ejecutor (usar dos paquetes) que permita iniciar 2 objetos de la clase. La información **NO** será ingresada por teclado.
 	* En la creación de los objetos, se debe hacer uso de dos constructores de la clase (1 por cada objeto) que permita establecer los valores iniciales del objeto como argumentos.
 	* Para presentar los datos del objeto, usar el método toString.
 
